@@ -112,9 +112,9 @@ Sistema inteligente de recomendación para e-commerce basado en Machine Learning
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TomasDinardi&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TomasDinardi&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasDinardi&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TomasDinardi&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
