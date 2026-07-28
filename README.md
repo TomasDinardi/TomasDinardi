@@ -104,7 +104,7 @@ Sistema inteligente de recomendación para e-commerce basado en Machine Learning
 
 ⭐ Proyecto-de-Recomendacion-InsightLab
 
-⭐ PIM5
+⭐ Fleetlogix
 
 ---
 
